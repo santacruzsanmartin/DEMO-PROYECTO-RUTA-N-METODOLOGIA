@@ -46,3 +46,13 @@
 3.Conclusiones
 
 4.Bibliografía
+#
+#
+#
+#
+## 2.Desarrollo
+
+>## 2.1. Identificación del problema
+Cada año, cerca de 1,3 millones de personas fallecen a raíz de un accidente de
+tránsito —más de 3000 defunciones diarias— y más de la mitad de ellas no
+viajaban en automóvil
