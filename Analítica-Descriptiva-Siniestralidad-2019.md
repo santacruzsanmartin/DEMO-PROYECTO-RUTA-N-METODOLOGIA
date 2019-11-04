@@ -19,13 +19,13 @@
 #
 1.Introducción
 
-1.1. Motivación
+>>1.1. Motivación
 
-1.2. Metodología
+>>1.2. Metodología
 
 2.Desarrollo
 
-2.1. Identificación del problema
+>>2.1. Identificación del problema
 
 2.2. Identificación de los datos
 
