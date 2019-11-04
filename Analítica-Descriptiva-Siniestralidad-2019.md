@@ -63,12 +63,21 @@ Tomando en cuenta la problematica enunciada, se plantea el desarrollo de este pr
 #
 #
 >## 2.2. Identificación de los datos
-Para este proyecto se utilizó la base de datos que transcribe el contratisa UNE, quienes son los encargados de transcribir la información levantada por el guarda de transito en la vía, esta base de datos se viene diligenciando en formato excel desde el año 2008 al 18 de agosto de 2019.  link a los archivos de excel.
+Para este proyecto se utilizó la base de datos que transcribe el contratisa UNE, quienes son los encargados de transcribir la información levantada por el guarda de transito en la vía, esta base de datos se viene diligenciando en formato excel desde el año 2008 al 18 de agosto de 2019, el libro de excel esta compuesto de doce hojas, una para cada año correspondiente.  link a los archivos de excel.
 
 La estructura de la tabla en excel es la siguiente:
 
 Orden	|Fecha Ocurrencia	|Hora Ocurrencia	|Fecha Levantamiento	|Spoa	|Expediente	|Clase	|Grupo	|Direccion Ocurrencia	|Municipio	|Lugar de Inspección	|Victima_Nombre	|Victima_Apellido	|Identificacion	|Sexo	|Años	|Condicion	|Vehículo Víctima o vehículo que atropella	|Placa	|Servicio	|Empresa	|Embriaguez 
 
-Se realizo la respectiva anonimización de los datos, procedimiento y codigo que se muestran mas adelante en el numeral
+Se realizo la respectiva anonimización de los datos de forma manual, en el archivo de excel, con el fin de poder publicarlo en este repositorio; se constituye a partir de este archivo un dataframe de pandas para realizar la respectiva preparación de los datos; procedimiento y codigo que se muestran mas adelante en el numeral 2.2.1.
+#
+#
+>## 2.3. Descripción del conjunto de datos
+El lenguaje de programación que se utilizara es Python, Para la limpieza de datos, los paquetes pandas, openpyxl, numpy y datetime; para el análisis de la información se utilizará los paquetes pandas;  para visualización se usan seaborn, folium; para geocodificación se usará el paquete geocoder y para estimar los modelos rpart y rpart.plot.
+#
+>>### 2.3.1. Limpieza y resumen de los datos
+Se inicia leyendo los archivos de excel para crear un dataframe de pandas que concatene las hojas existentes del libro que contiene la base de datos, este arcivo se llama MUERTOS.xlsx. Luego de esto se crea un dataframe donde se renombran algunas columnas y se eliminan otras inecesaria para los fines de este proyecto, quedando la siguiente estructura de data frame
 
+Index |Fecha Ocurrencia	|Hora Ocurrencia	|Edad Víctima	|Sexo	|Clase de Accidente	|Condición Víctima	|Vehículo Víctima o vehículo que atropella	|Dirección Ocurrencia	|Prueba Embriaguez|	Empresa Servicio Público	|Fecha Levantamiento	|Lugar de Inspección	|Servicio Publico o Particular	|Muertes	|Rango de Edades
 
+A continuacion se realiza una limpieza sobre los 3305 registros existentes, rellenando los registros sin iniformacion  con null y unificando las categorias de cada campo.
