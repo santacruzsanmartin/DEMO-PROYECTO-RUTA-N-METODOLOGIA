@@ -60,3 +60,13 @@ En este sentido, en marzo de 2010, la resolución 64/255 de la Asamblea General 
 Siendo Colombia miembro de la ONU, se acogio a las directricez y politicas establecidas en el Decenio de Acción para la Seguridad Vial 2011–2020, para lo cual se expidio la respectiva normatividad que reglamentara la elaboracion de planes estrategicos de seguridad vial en el nivel nacional, departamental, municipal y empresarial; de otro lado se crearon Observatrios de seguridad vial en estos mismos niveles , encargados fundamentalmente de realizar seghuimiento a la evolucion de las metas trazadas endichos planes y adoptar estrategias que redunden en la reduccion de la lesiones y mortalidad en accidentes viales.
 
 tomando en cuenta la problematica enunciada, se plantea el desarrollo de este proyecto para la creacion de erramietas que permitan tener informacion que apoye la toma de desciciones y la adopcion de estrategias de intervencion considerando la informacion de  grupos etareos afectados , georreferenciacion e identificacion con zonas donde las muertes son recurrentes
+#
+#
+>## 2.2. Identificación de los datos
+Para este proyecto se utilizó la base de datos que transcribe el contratisa UNE, quienes son los encargados de transcribir la información levantada por el guarda de transito en la vía, esta base de datos se viene diligenciando en formato excel desde el año 2008 al 18 de agosto de 2019 link a los archivos de excel.
+
+La estructura de la tabla en excel es la siguiente:
+
+Orden|	Fecha Ocurrencia|	Hora Ocurrencia|	Fecha Levantamiento|	Spoa|	Expediente|	Clase|	Grupo|	Direccion Ocurrencia|	Lugar de Inspección|	Sexo|	Años|	Condicion|	Vehículo Víctima o vehículo que atropella|	Placa|	Servicio	Empresa|	Embriaguez
+
+
