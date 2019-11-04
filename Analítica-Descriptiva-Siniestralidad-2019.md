@@ -32,7 +32,9 @@
 >>2.3. Descripción de los datos
 
 >>>2.3.1. Limpieza y resumen
+
 >>>2.3.2. Análisis de los datos
+
 >>>2.3.3. Tratamiento de datos atípicos
 
 >>2.4. Modelación de los datos
