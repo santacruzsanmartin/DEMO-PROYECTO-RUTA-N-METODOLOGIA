@@ -4,6 +4,7 @@
 >>>>>>>>>### Paolo Andrés Camacho Ramírez
 >>>>>>>>>### William
 >>>>>>>>>### Michael
+>>>>>>>>>### Eduardo Santacruz Sanmartín
 ###
 ###
 >>>>>### Estudiantes Curso Analitica Predictiva con Python
