@@ -2,7 +2,7 @@
 #
 #
 >>>>>>>>>### Paolo Andrés Camacho Ramírez
->>>>>>>>>### William
+>>>>>>>>>### William Zapata Jaramillo
 >>>>>>>>>### Michael
 >>>>>>>>>### Eduardo Santacruz Sanmartín
 ###
@@ -14,7 +14,17 @@
 #
 #
 ## Resumen
-#
+
+Actualmente en el mpio de Medellín se generan gran cantidad de registros de información que se están acumulando, pero que no se alcanzan a analizar para la planeación y la toma de decisiones.
+
+Uno de los puntos más importantes es la accidentalidad vehicular y la mortalidad que se presenta constantemente en la ciudad por la cantidad de medios de transporte que actualmente tiene la ciudad de Medellín.
+
+Este trabajo busca generar el análisis de la información de la mortalidad que se presentan en los hechos vehiculares con el propósito de tener una herramienta que por lo menos cree herramientas para análisis y la toma de decisiones en la ciudad de Medellín.
+
+En este trabajo utilizar la información de la accidentalidad vehicular en el municipio de Medellín para  años anteriores con el fin de pronosticar la frecuencia de accidentes agrupada según su tipo.
+
+Utilizamos las herramientas descriptivas en phyton con este trabajo para crear una herramienta que sirva como base para analizar la problemática en la ciudad de Medellín.
+
 
 ## Tabla de Contenido
 #
@@ -48,6 +58,22 @@
 
 4.Bibliografía
 #
+
+
+
+1.Introducción
+
+En el diario transcurrir de la ciudad de Medellín, se están reportando grandes cantidades de novedades en la movilidad de la ciudad de Medellín, esto genera información y bases de datos públicas y privadas.
+
+Todavía no se tienen herramientas definitivas para hacerle un seguimiento al 100% de las novedades que se presentan en la ciudad de Medellín.
+
+Por lo anterior, un grupo de funcionarios de la alcaldía que recibieron las bases sobre analítica de datos en Phyton, tienen como objetivo generar una herramienta que sirva para visualizar las novedades sobre las víctimas fatales que surgen diariamente por accidentalidad de tránsito en la ciudad de Medellín.
+
+
+
+>>1.1. Motivación
+
+>>1.2. Metodología
 #
 #
 #
