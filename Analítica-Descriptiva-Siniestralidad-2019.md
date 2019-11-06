@@ -86,12 +86,12 @@ Los entregables del trabajo son:
 
 Se propone utilizar la metodología CRISP-DM en la que se sigue un flujo de trabajo para la identificación del problema y la propuesta, evaluación e implementación de la solución. Los pasos de la metodología CRISP-DM son los siguientes:
 
-Identificación del problema del negocio.
-Identificación del problema de datos.
-Preparación y análisis de los datos.
-Modelación.
-Evaluación de los modelos y elección.
-Implementación.
+1. Identificación del problema del negocio.
+2. Identificación del problema de datos.
+3. Preparación y análisis de los datos.
+4. Modelación.
+5. Evaluación de los modelos y elección.
+6. Implementación.
 
 
 ## 2.Desarrollo
