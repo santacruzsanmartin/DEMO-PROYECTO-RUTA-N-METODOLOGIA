@@ -103,22 +103,20 @@ En este sentido, en marzo de 2010, la resolución 64/255 de la Asamblea General 
 
 Siendo Colombia miembro de la ONU, se acogio a las directricez y politicas establecidas en el Decenio de Acción para la Seguridad Vial 2011–2020, para lo cual se expidio la respectiva normatividad que reglamentara la elaboracion de planes estrategicos de seguridad vial en el nivel nacional, departamental, municipal y empresarial; de otro lado se crearon Observatrios de seguridad vial en estos mismos niveles , encargados fundamentalmente de realizar seghuimiento a la evolucion de las metas trazadas endichos planes y adoptar estrategias que redunden en la reduccion de la lesiones y mortalidad en accidentes viales.
 
-Dado el crecimiento que surgió en la ciudad de Medellín durante los últimos años, en los en la compra y venta del parque automotor y de la venta explosiva de motos en la ciudad, se han presentado dificultades de diversas formas, ya que las personas que consiguen su propia forma de vehículo no han tenido la suficiente experiencia en conducción y conocimiento en el manejo en las calles, lo cual ha generado que se presenten gran cantidad de sucesos y que sucedan muchos hechos catastróficos.
+Dado el crecimiento que surgió en la ciudad de Medellín durante los últimos años, en la compra y venta del parque automotor y de la venta explosiva de motos en la ciudad, se han presentado dificultades de diversas formas, ya que las personas que consiguen su propia forma de vehículo no han tenido la suficiente experiencia en conducción y conocimiento en el manejo en las calles, lo cual ha generado que se presenten gran cantidad de sucesos y que sucedan muchos hechos catastróficos.
 
 Tomando en cuenta la problematica enunciada, se plantea el desarrollo de este proyecto para la creacion de herramietas que permitan tener informacion para apoyar la toma de desciciones y la adopcion de estrategias de intervencion considerando la informacion de  grupos etareos afectados , georreferenciacion e identificacion donde zonas donde las muertes son recurrentes, detectar la incidencia de la alcoholemia, las muertes segun la garvedad, los rangos horarios con mayor numero de muertes, el dia de la semana el mes del año con el mayor numero de muertos.
 
 Con este trabajo se pretende crear una herramienta base para la ciudad con el fin de poder hacerle seguimiento a los hechos catastróficos y con esto poder comenzar a analizar que sucede realmente y de qué forma tomar decisiones para generar normas y controles que eviten estos sucesos en la ciudad de Medellín.
-
-
 #
 #
 >## 2.2. Identificación de los datos
 Para este proyecto se utilizó la base de datos que transcribe el contratisa UNE, quienes son los encargados de transcribir la información levantada por el guarda de transito en la vía, esta base de datos se viene diligenciando en formato excel desde el año 2008 al 18 de agosto de 2019, el libro de excel esta compuesto de doce hojas, una para cada año correspondiente.  link a los archivos de excel.
 
 La estructura de la tabla en excel es la siguiente:
-
+#
 Orden	|Fecha Ocurrencia	|Hora Ocurrencia	|Fecha Levantamiento	|Spoa	|Expediente	|Clase	|Grupo	|Direccion Ocurrencia	|Municipio	|Lugar de Inspección	|Victima_Nombre	|Victima_Apellido	|Identificacion	|Sexo	|Años	|Condicion	|Vehículo Víctima o vehículo que atropella	|Placa	|Servicio	|Empresa	|Embriaguez 
-
+#
 Se realizo la respectiva anonimización de los datos de forma manual, en el archivo de excel, con el fin de poder publicarlo en este repositorio; se constituye a partir de este archivo un dataframe de pandas para realizar la respectiva preparación de los datos; procedimiento y codigo que se muestran mas adelante en el numeral 2.2.1.
 #
 #
