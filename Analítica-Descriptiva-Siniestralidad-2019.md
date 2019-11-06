@@ -70,13 +70,30 @@ Todavía no se tienen herramientas definitivas para hacerle un seguimiento al 10
 Por lo anterior, un grupo de funcionarios de la alcaldía que recibieron las bases sobre analítica de datos en Phyton, tienen como objetivo generar una herramienta que sirva para visualizar las novedades sobre las víctimas fatales que surgen diariamente por accidentalidad de tránsito en la ciudad de Medellín.
 
 
-
 >>1.1. Motivación
 
+En analítica de datos predictiva se vieron técnicas estadísticas para pronóstico de la información, utilizando concepto de estadística descriptiva y probabilística.
+
+El objetivo del trabajo es crear una herramienta descriptiva que sirva de base para la visualización de la información y que este sirva como base para comenzar a crear un sistema predictivo completo para el tema de mortalidad en la accidentalidad de tránsito.
+
+Los entregables del trabajo son:
+1.	Código de ejecución del modelo. 
+2.	Reporte que contenga el entendimiento desarrollado en el trabajo-.
+3.	Visualización de  los datos y la predicción del modelo
+
+
 >>1.2. Metodología
-#
-#
-#
+
+Se propone utilizar la metodología CRISP-DM en la que se sigue un flujo de trabajo para la identificación del problema y la propuesta, evaluación e implementación de la solución. Los pasos de la metodología CRISP-DM son los siguientes:
+
+Identificación del problema del negocio.
+Identificación del problema de datos.
+Preparación y análisis de los datos.
+Modelación.
+Evaluación de los modelos y elección.
+Implementación.
+
+
 ## 2.Desarrollo
 
 >## 2.1. Identificación del problema
