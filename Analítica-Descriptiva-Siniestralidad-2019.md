@@ -130,15 +130,15 @@ Index |Fecha Ocurrencia	|Hora Ocurrencia	|Edad Víctima	|Sexo	|Clase de Accident
 
 A continuacion se realiza una limpieza sobre los 3305 registros existentes, rellenando los registros sin iniformacion  con null y unificando las categorias de cada campo.
 
->>># 2.3.2. Análisis de los datos
+>>> 2.3.2. Análisis de los datos
 
->>># 2.3.3. Tratamiento de datos atípicos
+>>> 2.3.3. Tratamiento de datos atípicos
 
->>## v2.4. Modelación de los datos
+>> v2.4. Modelación de los datos
 
->>## 2.5. Evaluación del modelo
+>> 2.5. Evaluación del modelo
 
->>## 2.6. Implementación del modelo
+>> 2.6. Implementación del modelo
 
 
 #
