@@ -61,7 +61,7 @@ Utilizamos las herramientas descriptivas en phyton con este trabajo para crear u
 
 
 
-1.Introducción
+## 1.Introducción
 
 En el diario transcurrir de la ciudad de Medellín, se están reportando grandes cantidades de novedades en la movilidad de la ciudad de Medellín, esto genera información y bases de datos públicas y privadas.
 
