@@ -114,9 +114,9 @@ Con este trabajo se pretende crear una herramienta base para la ciudad con el fi
 Para este proyecto se utilizó la base de datos que transcribe el contratisa UNE, quienes son los encargados de transcribir la información levantada por el guarda de transito en la vía, esta base de datos se viene diligenciando en formato excel desde el año 2008 al 18 de agosto de 2019, el libro de excel esta compuesto de doce hojas, una para cada año correspondiente.  link a los archivos de excel.
 
 La estructura de la tabla en excel es la siguiente:
-#
+
 Orden	|Fecha Ocurrencia	|Hora Ocurrencia	|Fecha Levantamiento	|Spoa	|Expediente	|Clase	|Grupo	|Direccion Ocurrencia	|Municipio	|Lugar de Inspección	|Victima_Nombre	|Victima_Apellido	|Identificacion	|Sexo	|Años	|Condicion	|Vehículo Víctima o vehículo que atropella	|Placa	|Servicio	|Empresa	|Embriaguez 
-#
+
 Se realizo la respectiva anonimización de los datos de forma manual, en el archivo de excel, con el fin de poder publicarlo en este repositorio; se constituye a partir de este archivo un dataframe de pandas para realizar la respectiva preparación de los datos; procedimiento y codigo que se muestran mas adelante en el numeral 2.2.1.
 #
 #
@@ -129,3 +129,24 @@ Se inicia leyendo los archivos de excel para crear un dataframe de pandas que co
 Index |Fecha Ocurrencia	|Hora Ocurrencia	|Edad Víctima	|Sexo	|Clase de Accidente	|Condición Víctima	|Vehículo Víctima o vehículo que atropella	|Dirección Ocurrencia	|Prueba Embriaguez|	Empresa Servicio Público	|Fecha Levantamiento	|Lugar de Inspección	|Servicio Publico o Particular	|Muertes	|Rango de Edades
 
 A continuacion se realiza una limpieza sobre los 3305 registros existentes, rellenando los registros sin iniformacion  con null y unificando las categorias de cada campo.
+
+>>># 2.3.2. Análisis de los datos
+
+>>># 2.3.3. Tratamiento de datos atípicos
+
+>>## v2.4. Modelación de los datos
+
+>>## 2.5. Evaluación del modelo
+
+>>## 2.6. Implementación del modelo
+
+
+#
+#
+
+3.Conclusiones
+
+
+#
+#
+4.Bibliografía
