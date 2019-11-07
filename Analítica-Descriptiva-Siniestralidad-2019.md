@@ -150,7 +150,7 @@ El modelo descriptivo propuesto en esta fase permitirá determinar la tendencia 
 #
 #
 
-3.Conclusiones
+## 3. Conclusiones
 
 Los accidentes de tránsito constituyen un problema emergente de salud pública en los países en vías de desarrollo, donde la morbilidad y mortalidad van de la mano con el incremento desmesurado del parque automotor y una desordenada urbanización.
 
@@ -167,7 +167,7 @@ De esta forma la administración municipal podrá tomar decisiones basadas en ev
 
 #
 #
-4.Bibliografía
+## 4. Bibliografía
 
 1. 	IBM Corporation. Manual CRISP-DM de IBM SPSS Modeler. Estados Unidos; 2012. 56 p. 
 
