@@ -169,3 +169,5 @@ Se realizó exploración de los valores de cada una de las variables tomándose 
 
 3. 	Grisales Romero H. Estadística aplicada en salud pública: estadística descriptiva y probabilidad. Universidad de Antioquia, Facultad Nacional de Salud Pública; 2002. 143 p. 
 
+4. 	Inicio - Secretaría de Movilidad de Medellín [Internet]. [citado 7 de noviembre de 2019]. Disponible en: https://www.medellin.gov.co/movilidad/
+5. 	Alcaldía de Medellín | Subportal del Ciudadano | Salud | Indicadores y Estadísticas | Indicadores Básicos de Salud [Internet]. [citado 7 de noviembre de 2019]. Disponible en: https://www.medellin.gov.co/irj/portal/medellin?NavigationTarget=navurl://3f40db33f42ecd22dc70ed0867e9b30
