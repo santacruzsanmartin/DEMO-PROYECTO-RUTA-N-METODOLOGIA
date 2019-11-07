@@ -136,8 +136,7 @@ A continuacion se realiza una limpieza sobre los 3305 registros existentes, rell
 
 >>### 2.3.2. Análisis de los datos
 
-Posterior a la exploración de cada variable, se realizó análisis descriptivo para identificar el comportamiento de factores relacionados con la mortalidad por siniestros viales en Medellín, donde se calcularon distribuciones de frecuencias absolutas
-
+Posterior a la exploración de cada variable, se realizó análisis descriptivo para identificar el comportamiento de factores relacionados con la mortalidad por siniestros viales en Medellín, donde se calcularon distribuciones de frecuencias absolutas para cada variable y fueron presentadas en gráficos de barras simples.
 
 >>### 2.3.3. Tratamiento de datos atípicos
 
@@ -163,3 +162,8 @@ Se realizó exploración de los valores de cada una de las variables tomándose 
 #
 #
 4.Bibliografía
+
+1. 	IBM Corporation. Manual CRISP-DM de IBM SPSS Modeler. Estados Unidos; 2012. 56 p. 
+
+2. 	WHO. Plan Mundial para el Decenio de Acción para la Seguridad Vial 2011–2020. Washington D. C.; 2011. 25 p. 
+
