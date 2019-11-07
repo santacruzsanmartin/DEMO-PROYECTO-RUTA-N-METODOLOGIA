@@ -94,8 +94,6 @@ Se propone utilizar la metodología CRISP-DM en la que se sigue un flujo de trab
 2. Identificación del problema de datos.
 3. Preparación y análisis de los datos.
 4. Modelación.
-5. Evaluación de los modelos y elección.
-6. Implementación.
 
 
 ## 2.Desarrollo
@@ -148,21 +146,23 @@ Se realizó exploración de los valores de cada una de las variables tomándose 
 
 >## 2.4. Modelación de los datos
 
->## 2.5. Evaluación del modelo
-
->## 2.6. Implementación del modelo
-
-
+El modelo descriptivo propuesto en esta fase permitirá determinar la tendencia de los datos en el tiempo y su distribución de acuerdo las condiciones de las victimas y el lugar de ocurrencia de los hechos. Con ello se podrán estimar diferencias, asociaciones  y dependencias entre los datos.
 #
 #
 
 3.Conclusiones
 
-La mortalidad por accidentes viales en Medellín ha mostrado una reducción de casos, pasando de 327 en 2008 a 234 en 2018; sin embargo, estas cifras no pueden dar la falsa ilusión de mejoría en la problemática, ya que se debe relacionar este resultado con las personas que no fallecen en los incidentes, pues están quedan con secuelas que limitan su calidad de vida y generan grandes costos para el sistema de salud y para la economía familiar, además de limitar el crecimiento económico, ya que la mayoría de accidentados se encuentran en edad productiva.
+Los accidentes de tránsito constituyen un problema emergente de salud pública en los países en vías de desarrollo, donde la morbilidad y mortalidad van de la mano con el incremento desmesurado del parque automotor y una desordenada urbanización.
+
+La mortalidad por accidentes viales en Medellín ha mostrado una reducción de casos, pasando de 327 en 2008 a 234 en 2018; sin embargo, estas cifras no pueden dar la falsa ilusión de mejoría en la problemática, ya que se debe relacionar este resultado con las personas que no fallecen en los incidentes, pues están quedan con secuelas que limitan su calidad de vida y generan grandes costos para el sistema de salud y para la economía familiar, además de limitar el crecimiento económico, ya que la mayoría de accidentados se encuentran en edad productiva. El gran número de casos fatales generalmente se asocia a accidentes de tránsito en donde están involucrados vehículos de transporte masivo como: minibuses, buses y camiones.
+
+La mayor frecuencia de mortalidad se observó en motociclistas y peatones, dos grupos que deben ser intervenidos de forma especial. De acuerdo al día de la semana, la mayor cantidad de incidentes se registran los fines de semana, por tanto se requieren medidas enfocadas a dichos periodos de tiempo, donde se profundice en educación y se implementen mayores medidas de control.
 
 En una fase siguiente del presente proyecto se sugiere incluir información adicional proveniente de lesionados en incidentes viales y factores socioeconómicos relacionados, de tal forma que se puede realizar seguimiento al problema de la acidentalidad víal y sus casos, teniendo en cuenta los condicionantes y no solo una parte del resultado, como es la mortalidad (punta del iceberg).
 
-De esta forma la administración municipal podrá tomar decisiones basadas en evidencia, donde puede perfilar y relacionar las caracteríticas de las personas accidentadas con la evolución de su caso, desde sus factores de condiciones de vida, el estado de salud resultante del incidente vial y el desenlace de mortalidad por dicha causa.
+Los sistemas de información deben integrarse para proporcionar información confiable a las instituciones nacionales involucradas en esta problemática, de manera que sirvan de referencia para futuras decisiones políticas.
+
+De esta forma la administración municipal podrá tomar decisiones basadas en evidencia, donde puede perfilar y relacionar las caracteríticas de las personas accidentadas con la evolución de su caso, desde sus factores de condiciones de vida, el estado de salud resultante del incidente vial y el desenlace de mortalidad por dicha causa. Es necesario consolidar una cultura de seguridad vial que nos permita reducir al máximo la siniestralidad y sus trágicas consecuencias.
 
 
 #
