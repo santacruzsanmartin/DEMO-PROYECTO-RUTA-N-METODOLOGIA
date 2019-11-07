@@ -132,7 +132,16 @@ A continuacion se realiza una limpieza sobre los 3305 registros existentes, rell
 
 >>### 2.3.2. Análisis de los datos
 
+Posterior a la exploración de cada variable, se realizó análisis descriptivo para identificar el comportamiento de factores relacionados con la mortalidad por siniestros viales en Medellín, donde se calcularon distribuciones de frecuencias absolutas
+
+
 >>### 2.3.3. Tratamiento de datos atípicos
+
+Se realizó exploración de los valores de cada una de las variables tomándose la siguiente decisión:
+
+1. Para valores ilegítimos o inusuales, se realizaron análisis sin incluirlos.
+2. Para valores mal registrados o vacios, se rellenaron los registros unificando las categorias de cada campo.
+
 
 >## 2.4. Modelación de los datos
 
