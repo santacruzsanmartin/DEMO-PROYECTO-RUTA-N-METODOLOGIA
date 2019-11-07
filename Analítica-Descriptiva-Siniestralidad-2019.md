@@ -136,7 +136,7 @@ A continuacion se realiza una limpieza sobre los 3305 registros existentes, rell
 
 >>### 2.3.2. Análisis de los datos
 
-Posterior a la exploración de cada variable, se realizó análisis descriptivo para identificar el comportamiento de factores relacionados con la mortalidad por siniestros viales en Medellín, donde se calcularon distribuciones de frecuencias absolutas para cada variable y fueron presentadas en gráficos de barras simples.
+Posterior a la exploración de cada variable, se realizó análisis descriptivo para identificar el comportamiento de factores relacionados con la mortalidad por siniestros viales en Medellín, donde se calcularon distribuciones de frecuencias absolutas para cada variable y fueron presentadas en tablas y gráficos de barras simples.
 
 >>### 2.3.3. Tratamiento de datos atípicos
 
@@ -157,6 +157,12 @@ Se realizó exploración de los valores de cada una de las variables tomándose 
 #
 
 3.Conclusiones
+
+La mortalidad por accidentes viales en Medellín ha mostrado una reducción de casos, pasando de 327 en 2008 a 234 en 2018; sin embargo, estas cifras no pueden dar la falsa ilusión de mejoría en la problemática, ya que se debe relacionar este resultado con las personas que no fallecen en los incidentes, pues están quedan con secuelas que limitan su calidad de vida y generan grandes costos para el sistema de salud y para la economía familiar, además de limitar el crecimiento económico, ya que la mayoría de accidentados se encuentran en edad productiva.
+
+En una fase siguiente del presente proyecto se sugiere incluir información adicional proveniente de lesionados en incidentes viales y factores socioeconómicos relacionados, de tal forma que se puede realizar seguimiento al problema de la acidentalidad víal y sus casos, teniendo en cuenta los condicionantes y no solo una parte del resultado, como es la mortalidad (punta del iceberg).
+
+De esta forma la administración municipal podrá tomar decisiones basadas en evidencia, donde puede perfilar y relacionar las caracteríticas de las personas accidentadas con la evolución de su caso, desde sus factores de condiciones de vida, el estado de salud resultante del incidente vial y el desenlace de mortalidad por dicha causa.
 
 
 #
